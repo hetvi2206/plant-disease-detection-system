@@ -44,11 +44,15 @@ This project is a **Plant Disease Detection System** built using **Streamlit** a
    ```bash
    streamlit run main.py
 
+---
+
 ## 📊 Model Training
 
 - The model was trained using a CNN (Convolutional Neural Network) architecture.
 - Images resized to 128x128
 - Uses a multi-class classification approach for detecting plant diseases.
+
+---
 
 ## 📸 Sample Prediction
 
