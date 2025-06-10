@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection System for Sustainable Agriculture
+# 🌿 Plant Disease Detection System for Sustainable Agriculture (LeafScan AI)
 
 ![Plant Health](Diseases.png)
 
