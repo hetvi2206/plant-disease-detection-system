@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / Dependency files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files (large, should be handled via external storage / gdown or Hugging Face)
+trained_plant_disease_model.keras
+training_hist.json
+
+# Dataset files
+Dataset/
+
+# Misc config or local settings
+settings.json
+
+# OS specific
+*.swp
+*.bak
+
+# Streamlit's .streamlit/ config folder (if you have secrets or local config)
+.streamlit/secrets.toml
